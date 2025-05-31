@@ -116,4 +116,4 @@ While passwii uses secure methods to check password breaches and generate strong
 
 ---
 
-Made with ❤️ and quantum-resistant randomness
+Made with ❤️ and  randomness
